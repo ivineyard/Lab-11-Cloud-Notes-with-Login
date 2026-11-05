@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711227002488",
+    "project_id": "lab11-cse410",
+    "storage_bucket": "lab11-cse410.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711227002488:android:5f6d0c60eafa9d2a23678d",
+        "android_client_info": {
+          "package_name": "com.example.lab_11_cloud_notes_with_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDogLnioBS9preolVCgqV3YYWOtxMAbU4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
